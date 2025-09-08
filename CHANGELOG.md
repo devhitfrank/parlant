@@ -4,7 +4,7 @@ All notable changes to Parlant will be documented here.
 
 ## [Unreleased]
 
-TBD
+- Follow-up canned responses
 
 ## [3.0.2] - 2025-08-27
 
